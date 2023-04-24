@@ -1,4 +1,4 @@
-# Layoff Runbook
+# AgentSync Layoff Runbook
 
 Being laid off can be overwhelming and it's easy to miss important tasks. This
 runbook will help make sure you stay on track.
@@ -16,17 +16,23 @@ _If you suspect or know you will be laid off soon._
    1. [What if I leave my company or retire and still have money in my FSA account?](https://fsastore.com/learn-what-if-i-leave-my-company-or-retire-and-still-have-money-in-my-fsa-account.html)
 2. Make sure you can login to payroll with your personal email.
     1. If you can't, make sure to download at least your last paystub.
+    2. [Personal Information page in Rippling](https://app.rippling.com/profile?section=personal+information)
 3. Make sure you can log in to your 401k with your personal email.
-4. Make sure you can log into any equity awards system with your personal email.
-5. Make sure your address and contact information are correct with the company.
+    1. [Account Settings page in Guidelines](https://my.guideline.com/participant/dashboard/settings)
+5. Make sure you can log into any equity awards system with your personal email.
+    1. [People page in Carta](https://app.carta.com/organizations/1545570/people/#direction=asc&page=1&query=&results=50&sort=user__first_name)
+7. Make sure your address and contact information are correct with the company.
     1. You will still need to receive tax forms, and any error will be harder to correct after your last day.
-6. Document your accomplishments
+    2. [Personal Information page in Rippling](https://app.rippling.com/profile?section=personal+information)
+8. Document your accomplishments
     1. Make a list of your projects, contributions, and achievements during your time at the company. This information can be useful when updating your resume and LinkedIn profile.
     2. If your company does performance reviews, your self-reflection may be a quick source to find highlights.
-7. Make sure any reimbursable expenses have been filed.
-8. Sign up for Blind if your company has it.
-     1. Your recently laid off colleagues may post useful information.
-9. Join your company's alumni Slack/Discord if it exists.
+9. Make sure any reimbursable expenses have been filed.
+    1. [Transacitons page in Navan](https://app.tripactions.com/app/liquid/user/transactions/todo)
+11. Sign up for Blind if your company has it.
+    1. Your recently laid off colleagues may post useful information.
+    2. None for AgentSync but [these might be contacts to start with](https://www.teamblind.com/post/Does-anyone-have-any-info-on-AgentSync-qqQpe1PH).
+12. Join your company's alumni Slack/Discord if it exists.
 
 # On your last day of work
 ## Before you lose access to work systems
